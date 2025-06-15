@@ -1,4 +1,4 @@
-# carbon_tax_compliance_calculator
+# CARBON TAX COMPLIANCE AND CALCULATOR
 
 ## Querry 1: Carbon Tax Compliance Check 
 ### Description 
